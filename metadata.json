@@ -1,0 +1,6 @@
+{
+  "name": "Istiqama - Offline Habit Tracker",
+  "description": "Mobile-first, fully offline habit tracker with daily prayers, custom habits, streak tracking, visual history calendar, and Android APK packaging support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
